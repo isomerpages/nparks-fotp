@@ -1,0 +1,4 @@
+collections:
+  friends-of-the-parks-groups:
+    output: true
+    order: []
