@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: BE A FRIEND OF THE PARKS!
           description: Join us as a stakeholder for future engagement sessions
-          url: /
+          url: /be-a-friend
         - title: OUR FRIENDS
           description: Get to know our Friends of the Parks communities
           url: /fotp-groups
