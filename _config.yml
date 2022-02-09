@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#1c5733"
     - title: media-color-three
-      color: "#00838f"
+      color: "#789904"
     - title: media-color-four
       color: "#b2292e"
     - title: media-color-five
-      color: "#00838f"
+      color: "#789904"
 resources_name: Resources
 description: Site of the NParks Friends of the Parks
 permalink: none
