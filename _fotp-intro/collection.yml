@@ -1,0 +1,4 @@
+collections:
+  fotp-intro:
+    output: true
+    order: []
