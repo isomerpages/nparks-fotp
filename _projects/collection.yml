@@ -2,10 +2,10 @@ collections:
   projects:
     output: true
     order:
-      - Punggol Heritage Trail.md
-      - Villa Verde Park.md
-      - Tampines Boulevard Park.md
-      - Bukit Timah Rochor Green Corridor.md
-      - Raffles Place Park.md
-      - Telok Ayer Park.md
       - Pasir Panjang Park.md
+      - Telok Ayer Park.md
+      - Raffles Place Park.md
+      - Bukit Timah Rochor Green Corridor.md
+      - Tampines Boulevard Park.md
+      - Villa Verde Park.md
+      - Punggol Heritage Trail.md
