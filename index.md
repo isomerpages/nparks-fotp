@@ -13,6 +13,9 @@ sections:
         - title: BE A FRIEND OF THE PARKS!
           description: Join us as a stakeholder for future engagement sessions
           url: ""
+        - title: OUR FRIENDS
+          description: Get to know our Friends of the Parks communities
+          url: ""
   - infopic:
       title: Our Friends Today
       subtitle: Friends of the Parks Groups
