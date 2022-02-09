@@ -2,5 +2,6 @@ collections:
   friends-of-the-parks-groups:
     output: true
     order:
+      - Friends of Chestnut Nature Park.md
       - Our Friends Today.md
       - Friends of Ubin Network.md
