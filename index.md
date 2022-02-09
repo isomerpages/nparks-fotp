@@ -15,7 +15,7 @@ sections:
           url: ""
         - title: OUR FRIENDS
           description: Get to know our Friends of the Parks communities
-          url: ""
+          url: /fotp-groups
   - infopic:
       title: Our Friends Today
       subtitle: Friends of the Parks Groups
