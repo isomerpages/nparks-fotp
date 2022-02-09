@@ -13,12 +13,15 @@ sections:
         - title: BE A FRIEND OF THE PARKS!
           description: Join us as a stakeholder for future engagement sessions
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Our Friends Today
+      subtitle: Friends of the Parks Groups
+      description: "Since its launch in April 2016, the Friends of the Parks
+        initiative has grown to ten communities, each with its unique focus:"
+      button: find out more
+      url: www
+      image: /images/Friends%20of%20the%20Parks%20forest%202.png
+      alt: Image alt text
   - resources:
       title: Media
       subtitle: Learn more
