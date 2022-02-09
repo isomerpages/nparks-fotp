@@ -2,4 +2,4 @@ collections:
   engagement:
     output: true
     order:
-      - The Engagement Process.md
+      - Engaging the Community.md
