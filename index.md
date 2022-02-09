@@ -17,8 +17,11 @@ sections:
           description: Get to know our Friends of the Parks communities
           url: /fotp-groups
         - title: FIND OUT MORE
-          description: ""
+          description: Learn about our engagement process
           url: /
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Our Friends Today
       subtitle: Friends of the Parks Groups
