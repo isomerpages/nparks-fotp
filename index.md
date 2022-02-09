@@ -9,13 +9,10 @@ sections:
   - hero:
       title: Friends of the Parks
       background: /images/park%20mgmt.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: OUR FRIENDS TODAY
-            url: ""
-          - title: BE A FRIEND OF THE PARKS
-            url: ""
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
