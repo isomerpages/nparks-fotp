@@ -4,7 +4,5 @@ links:
     url: /contact-us/
   - title: COMMUNITY ENGAGEMENT
     url: /example-page/
-  - title: OUR PROJECTS
-    collection: example-collection
   - title: Resources
     resource_room: true
