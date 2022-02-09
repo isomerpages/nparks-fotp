@@ -12,3 +12,9 @@ The Friends of the Parks is a ground-led initiative to promote stewardship and r
 *From left, Friends of East Coast Park, Friends of Bishan-Ang Mo Kio Park and Friends of Park Connector Network*
 
 The Friends of the Parks initiative consist of localised communities representing active stakeholders and volunteers within the park's ecosystem. Through the formation of the Friends of the Parks community, Friends can play a more active role in promoting active and responsible uses of our Parks through ground-led programmes and initiatives.
+
+
+
+|              | In support of |         |
+| -------- | -------- | -------- |
+|      | ![Alt text for image on Isomer site](/images/sgtgt.jpg)     |     |
