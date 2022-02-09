@@ -6,11 +6,11 @@ description: ""
 ![Alt text for image on Isomer site](/images/FoRC.jpg)
 *FoRC leading the first round of habitat
 enhancement and stream restoration efforts
-for Rail Corridor (Central) in 2018.*
+for Rail Corridor (Central) in 2018*
 
 ![Alt text for image on Isomer site](/images/FoRC%202.png)
 *FoRC leading Rail Corridor-themed programmes and
-activities for the Remembering Rail Corridor event in 2019.*
+activities for the Remembering Rail Corridor event in 2019*
 
 
 Friends of Rail Corridor (FoRC) was officially formed in 2017 to cultivate active community stewardship towards the Rail Corridor as a shared community space.
