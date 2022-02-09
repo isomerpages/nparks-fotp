@@ -1,10 +1,10 @@
 logo: /images/NParks%20Logo.png
 links:
-  - title: Contact Us
+  - title: OUR FRIENDS
     url: /contact-us/
-  - title: Example Page
+  - title: COMMUNITY ENGAGEMENT
     url: /example-page/
-  - title: Example Collection
+  - title: OUR PROJECTS
     collection: example-collection
   - title: Resources
     resource_room: true
