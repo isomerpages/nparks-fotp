@@ -1,4 +1,5 @@
 collections:
   friends-of-the-parks-groups:
     output: true
-    order: []
+    order:
+      - Our Friends Today.md
