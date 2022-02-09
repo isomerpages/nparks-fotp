@@ -9,4 +9,4 @@ description: ""
 # Join us!
 Keen to join our diverse volunteer network? Sign up [here](https://vms.nparks.gov.sg/)!
 
-Want to be a stakeholder for future engagement sessions? Click [here](https://form.gov.sg/#!/5e21692b935451001117a12e).
+Click [here](https://form.gov.sg/#!/5e21692b935451001117a12e) to join us as a stakeholder for future engagement sessions. 
