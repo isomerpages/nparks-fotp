@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: NParks Friends of the Parks
+description: Site of the NParks Friends of the Parks
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Notification: This is a test site"
@@ -24,3 +24,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
