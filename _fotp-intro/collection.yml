@@ -1,4 +1,5 @@
 collections:
   fotp-intro:
     output: true
-    order: []
+    order:
+      - Friends of the Parks.md
