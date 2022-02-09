@@ -23,7 +23,7 @@ sections:
           description: "  Past and ongoing projects, and how you can be involved"
           url: ""
   - infopic:
-      title: Friends of the Parks?
+      title: What is Friends of the Parks?
       description: Get to know more about the Friends of the Parks initiative
       button: FIND OUT MORE
       url: /fotp-intro
