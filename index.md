@@ -10,8 +10,8 @@ sections:
       title: Friends of the Parks
       background: /images/park%20mgmt.jpg
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: BE A FRIEND OF THE PARKS!
+          description: Join us as a stakeholder for future engagement sessions
           url: ""
   - infobar:
       title: Infobar title
@@ -24,4 +24,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
