@@ -19,7 +19,7 @@ sections:
         - title: FIND OUT MORE
           description: Learn about our engagement process
           url: /
-        - title: Key Highlight Title
+        - title: WHAT'S ON
           description: "  Past and ongoing projects, and how you can be involved"
           url: ""
   - infopic:
