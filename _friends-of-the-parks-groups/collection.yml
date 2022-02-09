@@ -2,6 +2,7 @@ collections:
   friends-of-the-parks-groups:
     output: true
     order:
+      - Friends of Rail Corridor.md
       - Friends of Marine Park.md
       - Friends of Bishan Ang Mo Kio Park.md
       - Friends of Park Connector Network.md
