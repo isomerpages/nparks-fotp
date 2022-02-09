@@ -23,6 +23,13 @@ sections:
           description: "  Past and ongoing projects, and how you can be involved"
           url: ""
   - infopic:
+      title: Friends of the Parks?
+      description: Get to know more about the Friends of the Parks initiative
+      button: FIND OUT MORE
+      url: /
+      image: /images/Friends%20montage%202.png
+      alt: fotp-montage
+  - infopic:
       title: Our Friends Today
       subtitle: Friends of the Parks Groups
       description: "Since its launch in April 2016, the Friends of the Parks
