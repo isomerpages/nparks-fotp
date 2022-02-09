@@ -2,5 +2,6 @@ collections:
   projects:
     output: true
     order:
+      - Raffles Place Park.md
       - Telok Ayer Park.md
       - Pasir Panjang Park.md
