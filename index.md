@@ -14,7 +14,7 @@ sections:
         options:
           - title: OUR FRIENDS TODAY
             url: ""
-          - title: Hero Dropdown Element Title
+          - title: BE A FRIEND OF THE PARKS
             url: ""
   - infobar:
       title: Infobar title
