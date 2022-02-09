@@ -20,7 +20,7 @@ sections:
           description: Learn about our engagement process
           url: /
         - title: Key Highlight Title
-          description: Key Highlight description
+          description: "  Past and ongoing projects, and how you can be involved"
           url: ""
   - infopic:
       title: Our Friends Today
