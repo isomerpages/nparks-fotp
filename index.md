@@ -4,7 +4,7 @@ title: NParks Friends of the Parks
 description: Site of the NParks Friends of the Parks
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Notification: This is a test site"
+notification: ""
 sections:
   - hero:
       title: Friends of the Parks
@@ -12,10 +12,13 @@ sections:
       key_highlights:
         - title: BE A FRIEND OF THE PARKS!
           description: Join us as a stakeholder for future engagement sessions
-          url: ""
+          url: /
         - title: OUR FRIENDS
           description: Get to know our Friends of the Parks communities
           url: /fotp-groups
+        - title: FIND OUT MORE
+          description: ""
+          url: /
   - infopic:
       title: Our Friends Today
       subtitle: Friends of the Parks Groups
@@ -25,8 +28,4 @@ sections:
       url: www
       image: /images/Friends%20of%20the%20Parks%20forest%202.png
       alt: Image alt text
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
