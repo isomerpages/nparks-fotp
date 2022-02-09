@@ -1,8 +1,12 @@
 logo: /images/NParks%20Logo.png
 links:
+  - title: WHAT IS FRIENDS OF THE PARKS?
+    collection: fotp-intro
   - title: OUR FRIENDS
-    url: /contact-us/
+    collection: friends-of-the-parks-groups
   - title: COMMUNITY ENGAGEMENT
-    url: /example-page/
-  - title: Resources
-    resource_room: true
+    collection: engagement
+  - title: WHAT'S ON
+    collection: projects
+  - title: BE A FRIEND!
+    collection: be-a-friend
