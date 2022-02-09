@@ -4,10 +4,10 @@ permalink: /focupnc
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/recreational-green-network--credit-nparks--data.jpg)
-*A map showing the 18km of recreational routes at Clementi Nature Corridor.*
+*A map showing the 18km of recreational routes at Clementi Nature Corridor*
 
 ![Alt text for image on Isomer site](/images/clementi-nature-trail-along-bukit-timah-first-diversion-canal--credit-nparks-.jpg)
-*An artist's impression showing Clementi Nature Trail along the Bukit Timah First Diversion Canal.*
+*An artist's impression showing Clementi Nature Trail along the Bukit Timah First Diversion Canal*
 
 The Friends of Clementi-Ulu Pandan Nature Corridor group was formed in 2021 as part of NParks’ efforts to work with the community to strengthen the ecological resilience along the two new recreational trails at the Clementi Nature Corridor, such as through forest restoration and habitat enhancement works.
 
