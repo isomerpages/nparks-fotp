@@ -4,6 +4,7 @@ permalink: /pht
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/PHT%20hero.jpg)
+*Artist's impression of Punggol Heritage Trail*
 
 The existing Punggol Road will be transformed into a pedestrainised heritage trail, while maintaining its original feature of undulating terrain. The new Punggol Heritage Trail will run across the Punggol Digital District, connecting Punggol Waterway Park to Punggol Promenade Park Connector.
 
