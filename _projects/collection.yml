@@ -2,4 +2,5 @@ collections:
   projects:
     output: true
     order:
+      - Telok Ayer Park.md
       - Pasir Panjang Park.md
