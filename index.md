@@ -26,7 +26,7 @@ sections:
       title: Friends of the Parks?
       description: Get to know more about the Friends of the Parks initiative
       button: FIND OUT MORE
-      url: /
+      url: /fotp-intro
       image: /images/Friends%20montage%202.png
       alt: fotp-montage
   - infopic:
