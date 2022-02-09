@@ -2,6 +2,7 @@ collections:
   projects:
     output: true
     order:
+      - Villa Verde Park.md
       - Tampines Boulevard Park.md
       - Bukit Timah Rochor Green Corridor.md
       - Raffles Place Park.md
