@@ -31,7 +31,6 @@ sections:
       alt: fotp-montage
   - infopic:
       title: Our Friends Today
-      subtitle: Friends of the Parks Groups
       description: "Since its launch in April 2016, the Friends of the Parks
         initiative has grown to ten communities, each with its unique focus:"
       button: find out more
