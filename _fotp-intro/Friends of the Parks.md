@@ -15,4 +15,8 @@ The Friends of the Parks initiative consist of localised communities representin
 
 
 
-In support of 
+
+
+
+In support of
+![Alt text for image on Isomer site](/images/SGTGT.JPG)
