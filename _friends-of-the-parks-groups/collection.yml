@@ -2,5 +2,5 @@ collections:
   friends-of-the-parks-groups:
     output: true
     order:
-      - Friends of Ubin Network.md
       - Our Friends Today.md
+      - Friends of Ubin Network.md
