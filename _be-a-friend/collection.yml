@@ -1,0 +1,5 @@
+collections:
+  be-a-friend:
+    output: true
+    order:
+      - Be A Friend!.md

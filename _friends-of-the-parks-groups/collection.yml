@@ -1,0 +1,16 @@
+collections:
+  friends-of-the-parks-groups:
+    output: true
+    order:
+      - Our Friends Today.md
+      - Friends of Ubin Network.md
+      - Friends of Park Connector Network.md
+      - Friends of Sungei Buloh Wetland Reserve.md
+      - Friends of Chestnut Nature Park.md
+      - Friends of Bishan Ang Mo Kio Park.md
+      - Friends of Bukit Timah Forest.md
+      - Friends of Marine Park.md
+      - Friends of Rail Corridor.md
+      - Friends of TreesSg.md
+      - Friends of East Coast Park.md
+      - Friends of Clementi Ulu Pandan Nature Corridor.md

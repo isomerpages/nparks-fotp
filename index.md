@@ -1,36 +1,40 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: NParks Friends of the Parks
+description: Site of the NParks Friends of the Parks
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Friends of the Parks
+      background: /images/park%20mgmt.jpg
+      key_highlights:
+        - title: OUR FRIENDS
+          description: Get to know our Friends of the Parks communities
+          url: /fotp-groups
+        - title: COMMUNITY ENGAGEMENT
+          description: Learn about our engagement process
+          url: /engagement
+        - title: WHAT'S ON
+          description: "  Past and ongoing projects, and how you can be involved"
+          url: /projects
+        - title: BE A FRIEND!
+          description: Join us as a stakeholder for future engagement sessions
+          url: /be-a-friend
+  - infopic:
+      title: What is Friends of the Parks?
+      description: Get to know more about the Friends of the Parks initiative
+      button: FIND OUT MORE
+      url: /fotp-intro
+      image: /images/Friends%20montage%202.png
+      alt: fotp-montage
+  - infopic:
+      title: Our Friends Today
+      description: Since its launch in April 2016, the Friends of the Parks initiative
+        has grown to 11 communities, each with its unique focus
+      button: find out more
+      url: www
+      image: /images/Friends%20of%20the%20Parks%20forest%202.png
+      alt: Image alt text
 ---
-

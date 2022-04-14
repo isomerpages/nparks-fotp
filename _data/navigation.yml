@@ -1,17 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/NParks%20Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
+  - title: WHAT IS FRIENDS OF THE PARKS?
+    collection: fotp-intro
+  - title: OUR FRIENDS
+    collection: friends-of-the-parks-groups
+  - title: COMMUNITY ENGAGEMENT
+    collection: engagement
+  - title: WHAT'S ON
+    collection: projects
+  - title: BE A FRIEND!
+    collection: be-a-friend
