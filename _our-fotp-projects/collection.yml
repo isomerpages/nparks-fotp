@@ -2,7 +2,6 @@ collections:
   our-fotp-projects:
     output: true
     order:
-      - Completed Projects.md
       - Clementi Woods Park.md
       - Pasir Panjang Park.md
       - Telok Ayer Park.md
