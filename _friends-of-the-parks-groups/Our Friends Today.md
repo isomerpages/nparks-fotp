@@ -3,9 +3,9 @@ title: Our Friends Today
 permalink: /fotp-groups/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/Friends%20of%20the%20Parks%20forest%202.png)
+![](/images/Friends%20of%20the%20Parks%20forest%202.png)
 
-Since its launch in April 2016, the Friends of the Parks initiative has grown to 11 communities, each with its unique focus:
+Since its launch in April 2016, the Friends of the Parks initiative has grown to 12 communities, each with its unique focus:
 
 * [Friends of Ubin Network (FUN)](http://www.nparks.gov.sg/pulau-ubin/friends-of-ubin)
 * [Friends of Chestnut Nature Park](http://www.facebook.com/friendsofchestnut)
