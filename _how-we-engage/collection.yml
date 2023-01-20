@@ -1,5 +1,5 @@
 collections:
-  engagement:
+  how-we-engage:
     output: true
     order:
       - Engaging the Community.md
