@@ -32,9 +32,8 @@ sections:
   - infopic:
       title: Our Friends Today
       description: Since its launch in April 2016, the Friends of the Parks initiative
-        has grown to 11 communities, each with its unique focus
+        has grown to 12 communities, each with its unique focus
       button: find out more
       url: www
-      image: /images/Friends%20of%20the%20Parks%20forest%202.png
       alt: Image alt text
 ---
