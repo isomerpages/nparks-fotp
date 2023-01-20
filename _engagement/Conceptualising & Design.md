@@ -1,13 +1,17 @@
 ---
 title: Conceptualising & Design
-permalink: /concept-design
+permalink: /concept-design/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/concept%20and%20design.jpg)
 *Focus group discussion for Pasir Panjang Park*
 
-The community will take part in reimagining the park experience, generating ideas based on their insights. This could be carried out through 1-on-1 interviews, focus group discussions, observations, or on-site interviews. Using these inputs, they will then be guided to put together a design document.
+The community will take part in reimagining the park experience, share their thoughts and needs, and generate ideas based on their insights. 
 
-After the preliminary design plan is charted out, the community will help to test out the proposed design on future user groups, and refine the design plan from the feedback gathered.
+These are carried out through joint ground obeservations, interviews, focus group discussions and surveys.
 
-This process can take up to four months.
+Ideas are generated, tested and refined through workshop sessions where participants are engaged in lively conversations, build on each other's ideas and allow their creativity to flow freely.
+
+The wider community will also get to provide their views on these ideas. Based on feedback, ideas are refined before being put together into a design plan.
+
+This process may take between 4 and 6 months.
