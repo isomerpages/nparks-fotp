@@ -2,7 +2,7 @@ collections:
   projects:
     output: true
     order:
-      - What's On.md
+      - Our FotP Projects.md
       - Clementi Woods Park.md
       - Pasir Panjang Park.md
       - Telok Ayer Park.md
