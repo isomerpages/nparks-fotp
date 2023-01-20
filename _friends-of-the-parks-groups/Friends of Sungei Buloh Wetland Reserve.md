@@ -1,5 +1,6 @@
 ---
 title: Friends of Sungei Buloh Wetland Reserve
-permalink: /fosbwr
+permalink: /fosbwr/
 description: ""
 ---
+Watch this space!
