@@ -36,4 +36,5 @@ sections:
       button: find out more
       url: www
       alt: Image alt text
+      image: /images/Friends of the Parks forest 2.png
 ---
