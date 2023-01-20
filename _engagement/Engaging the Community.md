@@ -3,8 +3,8 @@ title: Engaging the Community
 permalink: /engagement/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/Friends%20of%20Marine%20Park.jpg)
-*Friends of Marine Park*
+![](/images/Mt%20Sinai%20pop%20up%20booth%20jan%202022.jpg)
+*Pop-up engagement booth at Mount Sinai Park*
 
 We want to build a sense of space and ownership by giving our communities a stronger say in the making of their living environment.
 
