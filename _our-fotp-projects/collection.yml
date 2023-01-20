@@ -1,5 +1,5 @@
 collections:
-  completed-projects:
+  our-fotp-projects:
     output: true
     order:
       - Our FotP Projects.md
