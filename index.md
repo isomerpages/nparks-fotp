@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Friends of the Parks
-      background: /images/park%20mgmt.jpg
+      background: /images/FoPCN_KentRidgePark_FloatingWetlands_May2019_cropped.jpg
       key_highlights:
         - title: OUR FRIENDS
           description: Get to know our Friends of the Parks communities
