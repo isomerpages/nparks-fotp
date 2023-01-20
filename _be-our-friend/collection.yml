@@ -1,5 +1,5 @@
 collections:
-  be-a-friend:
+  be-our-friend:
     output: true
     order:
       - Be Our Friend!.md
