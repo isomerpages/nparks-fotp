@@ -1,11 +1,12 @@
 ---
 title: Engaging the Community
-permalink: /engagement
+permalink: /engagement/
 description: ""
 ---
+![](/images/Mt%20Sinai%20pop%20up%20booth%20jan%202022.jpg)
+*Pop-up engagement booth at Mount Sinai Park*
 
-![Alt text for image on Isomer site](/images/Friends%20of%20Marine%20Park.jpg)
-*Friends of Marine Park*
+We want to build a sense of space and ownership by giving our communities a stronger say in the making of their living environment.
 
 In 2019, the Friends of the Parks Engagement initiative was extended to involve communities to take part in the design, development and management of Singapore’s parks and green spaces. Communities will be invited to co-create more than 50 parks across Singapore over the next five years.
 

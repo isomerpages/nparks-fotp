@@ -1,12 +1,12 @@
 logo: /images/NParks%20Logo.png
 links:
-  - title: WHAT IS FRIENDS OF THE PARKS?
-    collection: fotp-intro
+  - title: Friends Of The Parks
+    collection: friends-of-the-parks
   - title: OUR FRIENDS
     collection: friends-of-the-parks-groups
-  - title: COMMUNITY ENGAGEMENT
-    collection: engagement
-  - title: WHAT'S ON
-    collection: projects
-  - title: BE A FRIEND!
-    collection: be-a-friend
+  - title: How We Engage
+    collection: how-we-engage
+  - title: Our Fotp Projects
+    collection: our-fotp-projects
+  - title: Be Our Friend
+    collection: be-our-friend

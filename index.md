@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Friends of the Parks
-      background: /images/park%20mgmt.jpg
+      background: /images/FoPCN_KentRidgePark_FloatingWetlands_May2019_cropped.jpg
       key_highlights:
         - title: OUR FRIENDS
           description: Get to know our Friends of the Parks communities
@@ -20,7 +20,7 @@ sections:
           description: "  Past and ongoing projects, and how you can be involved"
           url: /projects
         - title: BE A FRIEND!
-          description: Join us as a stakeholder for future engagement sessions
+          description: Join us in improving our parks & gardens
           url: /be-a-friend
   - infopic:
       title: What is Friends of the Parks?
@@ -32,9 +32,9 @@ sections:
   - infopic:
       title: Our Friends Today
       description: Since its launch in April 2016, the Friends of the Parks initiative
-        has grown to 11 communities, each with its unique focus
+        has grown to 12 communities, each with its unique focus
       button: find out more
       url: www
-      image: /images/Friends%20of%20the%20Parks%20forest%202.png
       alt: Image alt text
+      image: /images/Friends of the Parks forest 2.png
 ---
