@@ -1,6 +1,6 @@
 ---
 title: Friends of Chestnut Nature Park
-permalink: /focnp
+permalink: /focnp/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/Friends%20of%20CNP.jpg)

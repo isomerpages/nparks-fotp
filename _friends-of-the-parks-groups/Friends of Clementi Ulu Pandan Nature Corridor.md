@@ -1,6 +1,6 @@
 ---
 title: Friends of Clementi Ulu Pandan Nature Corridor
-permalink: /focupnc
+permalink: /focupnc/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/recreational-green-network--credit-nparks--data.jpg)

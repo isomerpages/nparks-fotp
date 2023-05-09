@@ -1,6 +1,6 @@
 ---
 title: Friends of Ubin Network
-permalink: /fun
+permalink: /fun/
 description: ""
 ---
 

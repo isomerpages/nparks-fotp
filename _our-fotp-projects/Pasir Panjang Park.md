@@ -1,6 +1,6 @@
 ---
 title: Pasir Panjang Park
-permalink: /Ppp/
+permalink: /ppp/
 description: ""
 ---
 ![](/images/PPP%20overview.jpg)

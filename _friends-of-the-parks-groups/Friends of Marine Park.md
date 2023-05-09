@@ -1,6 +1,6 @@
 ---
 title: Friends of Marine Park
-permalink: /fomp
+permalink: /fomp/
 description: ""
 ---
 The Friends of Marine Park (FoMP) group was formed in 2017.

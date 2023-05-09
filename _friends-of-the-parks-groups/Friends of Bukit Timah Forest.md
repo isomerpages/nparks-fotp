@@ -1,6 +1,6 @@
 ---
 title: Friends of Bukit Timah Forest
-permalink: /fobtp
+permalink: /fobtp/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/Friends%20of%20BTF.jpg)

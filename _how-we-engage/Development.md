@@ -1,6 +1,6 @@
 ---
 title: Development
-permalink: /Development/
+permalink: /development/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/devt.jpg)

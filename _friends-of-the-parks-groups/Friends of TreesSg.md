@@ -1,6 +1,6 @@
 ---
 title: Friends of TreesSg
-permalink: /fotsg
+permalink: /fotsg/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/treessg%20OMT%20carousel%20feature%20photo.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Tampines Boulevard Park
-permalink: /tbp
+permalink: /tbp/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/TBP%20hero.png)
