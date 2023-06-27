@@ -26,7 +26,7 @@ Plans to extend the Green Corridor from Rifle Range Road to Kallang Riverside Pa
 The existing Coast-to-Coast Central Trail currently runs at-grade along Bukit Timah Road and will cater to cyclists. The Green Corridor is envisioned to provide visitors with a botanical experience to bring them closer to nature, with the elevated sky park along the Green Corridor for pedestrians to enjoy.
 
 #### **Timeline**
-The first phase of the Bukit Timah-Rochor Green Corridor is approximately 1km long and consists of an elevated connection from the Rail Corridor to Jalan Kampong Chantek.  Visitors can continue their journey on the Coast-to-Coast Central Trail at-grade from Jalan Kampong Chantek. Construction of the first phase is estimated to complete by 2025, subject to the evolving Covid-19 situation.
+The first phase of the Bukit Timah-Rochor Green Corridor is approximately 1km long and consists of an elevated connection from the Rail Corridor to Jalan Kampong Chantek.  Visitors can continue their journey on the Coast-to-Coast Central Trail at-grade from Jalan Kampong Chantek. Construction of the first phase is estimated to complete by 2027.
 
 Plans to extend the rest of the Green Corridor extending up to Kallang Riverside Park will be done up in phases, dovetailing with PUB’s future canal improvement works. (see fig. 1)
 
