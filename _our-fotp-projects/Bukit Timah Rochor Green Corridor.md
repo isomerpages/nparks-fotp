@@ -48,4 +48,4 @@ The corridor is envisioned to meander through the forested setting, to allow vis
 The Green Corridor is likely to be elevated at some sections and at-grade at others, subject to further study. The first phase of the Green Corridor between the Rail Corridor and Jalan Kampong Chantek consists of an elevated sky park above the canal. It will connect to the Rail Corridor near the Bukit Timah Railway Station node, and the existing pedestrian overhead bridges across the roads. These areas will act as an access point for visitors on both sides of the canal.
 
 #### **Frequently Asked Questions (FAQs)**
-[](/files/btrgc%20public%20engagement%20faqs_180521.pdf)Click **here** to read the Frequently Asked Questions (FAQs) on the Bukit Timah-Rochor Green Corridor.
+Click here[](/files/btrgc%20public%20engagement%20faqs_180521.pdf) to read the Frequently Asked Questions (FAQs) on the Bukit Timah-Rochor Green Corridor.
