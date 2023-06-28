@@ -1,6 +1,6 @@
 ---
 title: Telok Ayer Park
-permalink: /tap
+permalink: /tap/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/TAP.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Friends of Park Connector Network
-permalink: /fopcn
+permalink: /fopcn/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/fopcn.jpg)

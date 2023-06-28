@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nparks-demo2-staging.netlify.app
-prod: https://nparks-demo2-prod.netlify.app
+staging: https://staging.d2k92z0z8qpdkv.amplifyapp.com/
+prod: https://master.d2k92z0z8qpdkv.amplifyapp.com/

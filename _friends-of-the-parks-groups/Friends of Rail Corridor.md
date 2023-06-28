@@ -1,6 +1,6 @@
 ---
 title: Friends of Rail Corridor
-permalink: /forc
+permalink: /forc/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/FoRC.jpg)

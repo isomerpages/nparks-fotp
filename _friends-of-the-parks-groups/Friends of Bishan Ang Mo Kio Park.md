@@ -1,6 +1,6 @@
 ---
 title: Friends of Bishan Ang Mo Kio Park
-permalink: /fobamkp
+permalink: /fobamkp/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/FoBAMKP.jpg)
