@@ -21,7 +21,7 @@ sections:
           url: /projects
         - title: BE A FRIEND!
           description: Join us in improving our parks & gardens
-          url: /be-our-friend/
+          url: https://fotp.nparks.gov.sg/be-our-friend/
   - infopic:
       title: What is Friends of the Parks?
       description: Get to know more about the Friends of the Parks initiative
