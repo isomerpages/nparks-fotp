@@ -43,3 +43,6 @@ Existing **heritage** sites, as well as those earmarked for restoration, will be
 ![](/images/themed%20trails%207.png)
 ![](/images/themed%20trails%208.png)
 Various existing and proposed **community** spaces within the 13 southern parks, such as therapeutic gardens and event lawns, will be linked up to make them more accessible to residents and neighbouring communities.
+
+
+NParks will be carrying out public consultation to seek ideas and feedback on the plans to enhance the three planned Destination Parks, which will help shape their designs. Express your interest to take part in our engagement sessions [here](www.go.gov.sg/fotpengagement).
