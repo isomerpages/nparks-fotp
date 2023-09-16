@@ -28,4 +28,4 @@ The enhanced West Coast Park will be positioned as the western gateway to the Gr
 
 _______ 
 
-NParks will be carrying out public consultation to seek ideas and feedback on the plans to enhance the three planned Destination Parks, which will help shape their designs. Express your interest to take part in our engagement sessions [here](www.go.gov.sg/fotpengagement)
+NParks will be carrying out public consultation to seek ideas and feedback on the plans to enhance the three planned Destination Parks, which will help shape their designs. Express your interest to take part in our engagement sessions [here.](https://www.go.gov.sg/fotpengagement)
