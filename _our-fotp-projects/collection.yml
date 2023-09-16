@@ -2,6 +2,7 @@ collections:
   our-fotp-projects:
     output: true
     order:
+      - Destination Parks.md
       - Clementi Woods Park.md
       - Pasir Panjang Park.md
       - Telok Ayer Park.md

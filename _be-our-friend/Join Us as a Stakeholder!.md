@@ -3,8 +3,6 @@ title: Join Us as a Stakeholder!
 permalink: /be-our-friend/
 description: ""
 ---
-
-
 ![Alt text for image on Isomer site](/images/FoBAMKP%20morn%20greeters.jpg)
 *Friends of Bishan-Ang Mo Kio Park*
 

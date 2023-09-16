@@ -17,11 +17,8 @@ sections:
           description: Learn about our engagement process
           url: /engagement
         - title: WHAT'S ON
-          description: "  Past and ongoing projects, and how you can be involved"
+          description: Past and ongoing projects, and how you can be involved
           url: /projects
-        - title: BE A FRIEND!
-          description: Join us in improving our parks & gardens
-          url: /be-a-friend
   - infopic:
       title: What is Friends of the Parks?
       description: Get to know more about the Friends of the Parks initiative
