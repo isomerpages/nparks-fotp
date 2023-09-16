@@ -26,24 +26,6 @@ The enhanced Labrador Nature Park will be a key node in the Labrador Nature Park
 ![](/images/west%20coast%20park%202.png)
 The enhanced West Coast Park will be positioned as the western gateway to the Greater Southern Waterfront. Visitors can look forward to different zones that provide a variety of active to passive family-centric experiences.
 
-#### Proposed curated Themed Trails
-
-![](/images/themed%20trails%201.png)
-![](/images/themed%20trails%202.png)
-It is planned for each of the 13 parks to have a **nature playgarden** that is unique to their setting. These nature playgarden nodes will be linked together by a trail that will allow children and families to explore the nature playgardens in all the 13 parks.
-
-![](/images/themed%20trails%203.png)
-![](/images/themed%20trails%204.png)
-To highlight coastal, riverine and secondary forest habitats of the southern region, a trail will be curated to allow visitors to discover and experience the sights and sounds of these habitats.
-
-![](/images/themed%20trails%205.png)
-![](/images/themed%20trails%206.png)
-Existing **heritage** sites, as well as those earmarked for restoration, will be weaved into trails that will incorporate coastal, ridgeline and World War II historic elements.
-
-![](/images/themed%20trails%207.png)
-![](/images/themed%20trails%208.png)
-Various existing and proposed **community** spaces within the 13 southern parks, such as therapeutic gardens and event lawns, will be linked up to make them more accessible to residents and neighbouring communities.
-
 _______ 
 
 NParks will be carrying out public consultation to seek ideas and feedback on the plans to enhance the three planned Destination Parks, which will help shape their designs. Express your interest to take part in our engagement sessions [here](www.go.gov.sg/fotpengagement).
