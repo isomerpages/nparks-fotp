@@ -12,7 +12,7 @@ NParks **plans to enhance 13 southern parks** as part of the curation of themed 
 ![](/images/lakeside%20garden.png)
 **Destination Parks** are large, regional parks with thematic identities and unique feature to attract visitors from all over Singapore. In 2012, Admiralty Park, East Coast Park and Lakeside Garden at Jurong Lake Gardens (formerly known as Jurong Lake Park) were identified for development into Destination Parks, which have since enjoyed high visitorship.
  
- #### Proposed enhancements for planned Destination Parks
+##### Proposed enhancements for planned Destination Parks
  
  ![](/images/hortpark%201.png)
  ![](/images/hortpark%202.png)
@@ -28,4 +28,4 @@ The enhanced West Coast Park will be positioned as the western gateway to the Gr
 
 _______ 
 
-NParks will be carrying out public consultation to seek ideas and feedback on the plans to enhance the three planned Destination Parks, which will help shape their designs. Express your interest to take part in our engagement sessions [here](www.go.gov.sg/fotpengagement).
+NParks will be carrying out public consultation to seek ideas and feedback on the plans to enhance the three planned Destination Parks, which will help shape their designs. Express your interest to take part in our engagement sessions [here](https://form.gov.sg/5e21692b935451001117a12e).
