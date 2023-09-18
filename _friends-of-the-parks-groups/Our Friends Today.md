@@ -3,7 +3,8 @@ title: Our Friends Today
 permalink: /fotp-groups/
 description: ""
 ---
-![](/images/Friends%20of%20the%20Parks%20forest%202.png)
+
+![](/images/fotp%20friends%20montage_12_resized.png)
 
 Since its launch in April 2016, the Friends of the Parks initiative has grown to 12 communities, each with its unique focus:
 
