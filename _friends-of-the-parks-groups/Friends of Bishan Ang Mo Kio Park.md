@@ -3,7 +3,11 @@ title: Friends of Bishan Ang Mo Kio Park
 permalink: /fobamkp/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/FoBAMKP.jpg)
+
+![](/images/fobamkp%202022_nparks.jpg)
+
+![](/images/fobamkp%20(cgs%20planting)_nparks.jpg)
+*FoBAMKP at a Clean and Green Singapore planting event*
 
 The Friends of Bishan-Ang Mo Kio Park (FoBAMKP) group was formed in 2017.
 
