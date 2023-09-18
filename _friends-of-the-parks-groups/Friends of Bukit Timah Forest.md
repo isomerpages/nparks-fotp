@@ -6,7 +6,7 @@ description: ""
 ![Alt text for image on Isomer site](/images/Friends%20of%20BTF.jpg)
 
 ![](/images/bobtf_1901160934im2c0770_treeplanting_josephkoh.jpg)
-*Tree planting at Bukit Timah Forest*
+*Tree planting at Bukit Timah Forest. Photo: Joseph Koh*
 
 The Bukit Timah Nature Reserve, with Bukit Timah Hill as its core, is the centrepiece of our shared natural heritage. It is an ASEAN Heritage Park with the largest surviving primary rainforest in Singapore, a microcosm of our rich biodiversity, and a sanctuary for many of our endemic and threatened plants and animals.
 
