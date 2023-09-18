@@ -31,7 +31,7 @@ sections:
       description: Since its launch in April 2016, the Friends of the Parks initiative
         has grown to 12 communities, each with its unique focus
       button: find out more
-      url: www
+      url: /fotp-groups/
       alt: Image alt text
       image: /images/Friends of the Parks forest 2.png
 ---
