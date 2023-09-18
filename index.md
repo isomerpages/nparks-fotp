@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Friends of the Parks
-      background: /images/FoPCN_KentRidgePark_FloatingWetlands_May2019_cropped.jpg
+      background: /images/focupnc_clementi forest bioblitz 1_nparks_cropped.JPG
       key_highlights:
         - title: OUR FRIENDS
           description: Get to know our Friends of the Parks communities
@@ -24,7 +24,7 @@ sections:
       description: Get to know more about the Friends of the Parks initiative
       button: FIND OUT MORE
       url: /fotp-intro
-      image: /images/Friends%20montage%202.png
+      image: /images/fotp montage.png
       alt: fotp-montage
   - infopic:
       title: Our Friends Today
