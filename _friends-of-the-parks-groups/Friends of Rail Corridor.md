@@ -3,15 +3,7 @@ title: Friends of Rail Corridor
 permalink: /forc/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/FoRC.jpg)
-*FoRC leading the first round of habitat
-enhancement and stream restoration efforts
-for Rail Corridor (Central) in 2018*
-
-![Alt text for image on Isomer site](/images/FoRC%202.png)
-*FoRC leading Rail Corridor-themed programmes and
-activities for the Remembering Rail Corridor event in 2019*
-
+![](/images/frc%20group%20photo4_nparks.jpg)
 
 Friends of Rail Corridor (FoRC) was officially formed in 2017 to cultivate active community stewardship towards the Rail Corridor as a shared community space.
 
@@ -20,3 +12,13 @@ Open to all members of the public, the Friends of Rail Corridor community compri
 The Friends of Rail Corridor community has come up with the following vision to guide their initiatives:
 
 The Rail Corridor is a natural and continuous green passage connecting our past and present, and a lifeline for people and wildlife. We have a collective responsibility to protect its unique character and promote its heritage for diverse communities.
+
+![](/images/frc_meeting%20on%2013%20april%202023_nparks.jpg)
+*FRC meeting in 2023*
+
+![](/images/frc_heritage%20workshop%20in%20june%202022_nparks.jpg)
+*FRC heritage workshop in 2022*
+
+![](/images/frc_tree%20planting%20on%201%20july%202021_nparks.jpg)
+*FRC tree planting activity in 2021*
+
