@@ -15,4 +15,3 @@ More on FoMP [here](https://www.facebook.com/groups/sistersislandsmarinepark/).
 
 ![](/images/fmp_coastalcleanup20230519_2_fmp.jpg)
 *FMP doing a coastal clean-up activity*
-
