@@ -16,5 +16,8 @@ Since its formation in 2014, Friends of Ubin Network (FUN) has led and contribut
 
 More on FUN [here](https://www.nparks.gov.sg/pulau-ubin/friends-of-ubin).
 
+![](/images/fun%20fou%20discussion_2_%2024%20feb%202023_nparks.jpg)
+*FUN discussion in 2023*
+
 ![](/images/fun%20tree%20planting%20on%20ubin%20day%2025%20jun%202022_nparks.JPG)
 *FUN tree planting on Ubin Day on 25 Jun 2022*
