@@ -23,5 +23,5 @@ sections:
       button: find out more
       url: /fotp-groups/
       alt: Image alt text
-      image: /images/Friends of the Parks forest 2.png
+      image: /images/fotp friends montage_12_resized.png
 ---
