@@ -9,16 +9,6 @@ sections:
   - hero:
       title: Friends of the Parks
       background: /images/focupnc_clementi forest bioblitz 1_nparks_cropped.JPG
-      key_highlights:
-        - title: OUR FRIENDS
-          description: Get to know our Friends of the Parks communities
-          url: /fotp-groups
-        - title: COMMUNITY ENGAGEMENT
-          description: Learn about our engagement process
-          url: /engagement
-        - title: WHAT'S ON
-          description: Past and ongoing projects, and how you can be involved
-          url: /our-fotp-projects
   - infopic:
       title: What is Friends of the Parks?
       description: Get to know more about the Friends of the Parks initiative
