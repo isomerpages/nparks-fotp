@@ -3,8 +3,8 @@ title: Join Us as a Stakeholder!
 permalink: /be-our-friend/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/FoBAMKP%20morn%20greeters.jpg)
-*Friends of Bishan-Ang Mo Kio Park*
+![](/images/focnp_tree%20planting%20led%20by%20focnp_chuasiewchin.jpg)
+*Friends of Chestnut Nature Park*
 
 Keen to join our diverse volunteer network? Sign up [here](https://www.volunteer.gov.sg/)!
 
