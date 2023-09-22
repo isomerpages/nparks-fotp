@@ -1,6 +1,6 @@
 ---
 title: Villa Verde Park
-permalink: /vvp/
+permalink: /our-fotp-projects/villa-verde-park/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/VVP%20hero.jpg)

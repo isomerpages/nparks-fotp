@@ -1,6 +1,6 @@
 ---
 title: Bukit Timah Rochor Green Corridor
-permalink: /btrgc/
+permalink: /our-fotp-projects/bukit-timah-rochor-green-corridor/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/BTRGC%20hero%20image_resized.jpg)

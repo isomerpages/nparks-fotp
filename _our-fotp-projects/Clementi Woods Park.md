@@ -1,5 +1,6 @@
 ---
 title: Clementi Woods Park
-permalink: /projects/permalink/
+permalink: /our-fotp-projects/clementi-woods-park/
 description: ""
 ---
+More details coming your way soon!

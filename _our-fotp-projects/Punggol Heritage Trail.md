@@ -1,6 +1,6 @@
 ---
 title: Punggol Heritage Trail
-permalink: /pht/
+permalink: /our-fotp-projects/punggol-heritage-trail/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/PHT%20hero.jpg)

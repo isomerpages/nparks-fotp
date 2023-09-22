@@ -8,30 +8,20 @@ notification: ""
 sections:
   - hero:
       title: Friends of the Parks
-      background: /images/FoPCN_KentRidgePark_FloatingWetlands_May2019_cropped.jpg
-      key_highlights:
-        - title: OUR FRIENDS
-          description: Get to know our Friends of the Parks communities
-          url: /fotp-groups
-        - title: COMMUNITY ENGAGEMENT
-          description: Learn about our engagement process
-          url: /engagement
-        - title: WHAT'S ON
-          description: Past and ongoing projects, and how you can be involved
-          url: /projects
+      background: /images/focupnc_clementi forest bioblitz 1_nparks_cropped.JPG
   - infopic:
       title: What is Friends of the Parks?
       description: Get to know more about the Friends of the Parks initiative
       button: FIND OUT MORE
       url: /fotp-intro
-      image: /images/Friends%20montage%202.png
+      image: /images/fotp montage.png
       alt: fotp-montage
   - infopic:
       title: Our Friends Today
       description: Since its launch in April 2016, the Friends of the Parks initiative
         has grown to 12 communities, each with its unique focus
       button: find out more
-      url: www
+      url: /fotp-groups/
       alt: Image alt text
-      image: /images/Friends of the Parks forest 2.png
+      image: /images/fotp friends montage_12_resized.png
 ---

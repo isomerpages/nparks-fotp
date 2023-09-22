@@ -11,3 +11,7 @@ The Friends of Bukit Timah Forest (FoBTP) is a community-led initiative that see
 It is open to all individuals, schools and community organisations with an interest in these nature areas – hikers, bikers, joggers, exercise groups, nature lovers, researchers and anybody who cherishes the Bukit Timah Nature Reserve and its surrounding nature parks.
 
 More on FoBTP [here](https://www.facebook.com/groups/356074428137285/).
+
+![](/images/bobtf_1901160934im2c0770_treeplanting_josephkoh.jpg)
+*Tree planting at Bukit Timah Forest. Photo: Joseph Koh*
+

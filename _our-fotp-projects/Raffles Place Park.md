@@ -1,6 +1,6 @@
 ---
 title: Raffles Place Park
-permalink: /rpp/
+permalink: /our-fotp-projects/raffles-place-park/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/RPP.jpg)
