@@ -4,4 +4,4 @@ permalink: /friends-of-the-parks-groups/fovvp/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Stay tuned for updates!</p>
