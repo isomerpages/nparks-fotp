@@ -1,0 +1,5 @@
+collections:
+  friends-of-the-parks:
+    output: true
+    order:
+      - Friends of the Parks.md
