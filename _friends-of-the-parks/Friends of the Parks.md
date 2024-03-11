@@ -20,7 +20,7 @@ The Friends of the Parks initiative consist of localised communities representin
 
 ![](/images/fotp%20montage%205.png)
 
-We have 13 active Friends of the Parks communities today with over thousands of volunteers who have actively participated in engagement sessions, co-led events and activities and more. These initiatives have helped produce better park designs and provide more recreational opportunities.
+We have 14 active Friends of the Parks communities today with over thousands of volunteers who have actively participated in engagement sessions, co-led events and activities and more. These initiatives have helped produce better park designs and provide more recreational opportunities.
 
 You can be our Friend today too! [Click here to join us as a stakeholder for future engagement sessions.](https://form.gov.sg/#!/5e21692b935451001117a12e)
 
