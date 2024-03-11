@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: Our Friends Today
       description: Since its launch in April 2016, the Friends of the Parks initiative
-        has grown to 12 communities, each with its unique focus
+        has grown to 13 communities, each with its unique focus
       button: find out more
       url: /fotp-groups/
       alt: Image alt text
