@@ -11,7 +11,7 @@ sections:
       background: /images/focupnc_clementi forest bioblitz 1_nparks_cropped.JPG
   - infopic:
       title: What is Friends of the Parks?
-      description: Get to know more about the Friends of the Parks initiative
+      description: Get to know more about the Friends of the Parks initiative!
       button: FIND OUT MORE
       url: /fotp-intro
       image: /images/fotp montage.png
@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: Our Friends Today
       description: Since its launch in April 2016, the Friends of the Parks initiative
-        has grown to 14 communities, each with its unique focus
+        has grown to 14 communities, each with its unique focus.
       button: find out more
       url: /fotp-groups/
       alt: Image alt text
