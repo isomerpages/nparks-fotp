@@ -28,11 +28,6 @@ HortPark, Labrador Nature Park and West Coast Park into <strong>Destination Park
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/admiralty%20park.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/east%20coast%20park.png">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/lakeside%20garden.png">
 </div>
