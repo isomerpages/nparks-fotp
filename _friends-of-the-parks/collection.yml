@@ -2,6 +2,7 @@ collections:
   friends-of-the-parks:
     output: true
     order:
+      - Our Friends/Friends of Clementi Ulu Pandan Nature Corridor.md
       - Our Friends/Friends of Chestnut Nature Park.md
       - Our Friends/Friends of Jurong Lake Gardens.md
       - Our Friends/Friends of East Coast Park.md
