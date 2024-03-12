@@ -2,6 +2,7 @@ collections:
   our-fotp-projects:
     output: true
     order:
+      - Completed Projects/Telok Ayer Park.md
       - Completed Projects/Villa Verde Park.md
       - Completed Projects/.keep
       - Destination Parks.md
