@@ -19,7 +19,7 @@ gather, bond, and create shared memories.</p>
 you would like to find out how you can play a part as a Friend of JLG!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoJLG_montage_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="FoJLG edible gardeners learning and sharing gardening know-how" src="/images/FoJLG_montage_1.png">
 </div>
 <p><em>FoJLG edible gardeners learning and sharing gardening know-how</em> 
 <br>
