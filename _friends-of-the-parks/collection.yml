@@ -1,5 +1,5 @@
 collections:
-  friends-of-the-parks-groups:
+  friends-of-the-parks:
     output: true
     order:
       - About FotP.md
