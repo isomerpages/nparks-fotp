@@ -1,5 +1,5 @@
 title: NParks Friends of the Parks
-url: ""
+url: https://fotp.nparks.gov.sg
 favicon: /images/NParks%20Logo.png
 colors:
   primary-color: "#1c5733"
@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2k92z0z8qpdkv.amplifyapp.com/
 prod: https://master.d2k92z0z8qpdkv.amplifyapp.com/
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""
