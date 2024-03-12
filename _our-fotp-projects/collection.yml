@@ -2,6 +2,7 @@ collections:
   our-fotp-projects:
     output: true
     order:
+      - Completed Projects/Raffles Place Park.md
       - Completed Projects/Clementi Woods Park.md
       - Completed Projects/Bukit Timah Rochor Green Corridor.md
       - Completed Projects/Punggol Heritage Trail.md
