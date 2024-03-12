@@ -2,6 +2,7 @@ collections:
   friends-of-the-parks:
     output: true
     order:
+      - Our Friends/Friends of East Coast Park.md
       - Our Friends/Friends of Bukit Timah Forest.md
       - Our Friends/Friends of Bishan Ang Mo Kio Park.md
       - Our Friends/.keep
