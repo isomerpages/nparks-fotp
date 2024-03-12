@@ -11,16 +11,13 @@ variant: tiptap
 grown to 14 communities, each with its unique focus:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.facebook.com/groups/190636865014950" rel="noopener noreferrer nofollow" target="_blank">Friends of Bishan-Ang Mo Kio Park</a>
-</p>
+<p>Friends of Bishan-Ang Mo Kio Park</p>
 </li>
 <li>
-<p><a href="http://www.facebook.com/groups/356074428137285" rel="noopener noreferrer nofollow" target="_blank">Friends of Bukit Timah Forest</a>
-</p>
+<p>Friends of Bukit Timah Forest</p>
 </li>
 <li>
-<p><a href="http://www.facebook.com/friendsofchestnut" rel="noopener noreferrer nofollow" target="_blank">Friends of Chestnut Nature Park</a>
-</p>
+<p>Friends of Chestnut Nature Park</p>
 </li>
 <li>
 <p>Friends of Clementi-Ulu Pandan Nature Corridor</p>
@@ -32,8 +29,7 @@ grown to 14 communities, each with its unique focus:</p>
 <p>Friends of Jurong Lake Gardens</p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/groups/sistersislandsmarinepark/" rel="noopener noreferrer nofollow" target="_blank">Friends of Marine Park</a>
-</p>
+<p>Friends of Marine Park</p>
 </li>
 <li>
 <p>Friends of Park Connector Network</p>
@@ -51,8 +47,7 @@ grown to 14 communities, each with its unique focus:</p>
 <p>Friends of TreesSg</p>
 </li>
 <li>
-<p><a href="http://www.nparks.gov.sg/pulau-ubin/friends-of-ubin" rel="noopener noreferrer nofollow" target="_blank">Friends of Ubin Network (FUN)</a>
-</p>
+<p>Friends of Ubin Network (FUN)</p>
 </li>
 <li>
 <p>Friends of Villa Verde Park</p>
