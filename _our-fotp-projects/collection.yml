@@ -2,12 +2,14 @@ collections:
   our-fotp-projects:
     output: true
     order:
-      - Destination Parks.md
-      - Bukit Timah Rochor Green Corridor.md
-      - Clementi Woods Park.md
-      - Pasir Panjang Park.md
-      - Punggol Heritage Trail.md
-      - Raffles Place Park.md
-      - Tampines Boulevard Park.md
-      - Telok Ayer Park.md
-      - Villa Verde Park.md
+      - Ongoing Projects/Destination Parks.md
+      - Ongoing Projects/.keep
+      - Completed Projects/Raffles Place Park.md
+      - Completed Projects/Clementi Woods Park.md
+      - Completed Projects/Bukit Timah Rochor Green Corridor.md
+      - Completed Projects/Punggol Heritage Trail.md
+      - Completed Projects/Pasir Panjang Park.md
+      - Completed Projects/Tampines Boulevard Park.md
+      - Completed Projects/Telok Ayer Park.md
+      - Completed Projects/Villa Verde Park.md
+      - Completed Projects/.keep

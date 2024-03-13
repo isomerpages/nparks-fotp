@@ -2,4 +2,20 @@ collections:
   friends-of-the-parks:
     output: true
     order:
-      - Friends of the Parks.md
+      - About FotP.md
+      - Our Friends Today.md
+      - Our Friends/.keep
+      - Our Friends/Friends of Bishan Ang Mo Kio Park.md
+      - Our Friends/Friends of Bukit Timah Forest.md
+      - Our Friends/Friends of Chestnut Nature Park.md
+      - Our Friends/Friends of Clementi Ulu Pandan Nature Corridor.md
+      - Our Friends/Friends of East Coast Park.md
+      - Our Friends/Friends of Jurong Lake Gardens.md
+      - Our Friends/Friends of Marine Park.md
+      - Our Friends/Friends of Park Connector Network.md
+      - Our Friends/Friends of Pasir Panjang Park.md
+      - Our Friends/Friends of Rail Corridor.md
+      - Our Friends/Friends of Sungei Buloh Wetland Reserve.md
+      - Our Friends/Friends of TreesSg.md
+      - Our Friends/Friends of Ubin Network.md
+      - Our Friends/Friends of Villa Verde Park.md
