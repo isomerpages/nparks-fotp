@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About FotP.md
+      - Our Friends Today.md
       - Our Friends/.keep
       - Our Friends/Friends of Bishan Ang Mo Kio Park.md
       - Our Friends/Friends of Bukit Timah Forest.md
@@ -18,4 +19,3 @@ collections:
       - Our Friends/Friends of TreesSg.md
       - Our Friends/Friends of Ubin Network.md
       - Our Friends/Friends of Villa Verde Park.md
-      - Our Friends Today.md
