@@ -10,7 +10,7 @@ sections:
       title: Friends of the Parks
       background: /images/focupnc_clementi forest bioblitz 1_nparks_cropped.JPG
       dropdown:
-        title: Hero Dropdown Title
+        title: Find Out More
         options:
           - title: Friends of the Parks
             url: /fotp-intro
