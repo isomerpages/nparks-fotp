@@ -12,8 +12,8 @@ sections:
       dropdown:
         title: Find Out More
         options:
-          - title: Friends of the Parks
-            url: /fobamkp
+          - title: About Friends of the Parks
+            url: /about-fotp
           - title: Our Friends
             url: /about-fotp
           - title: How We Engage
