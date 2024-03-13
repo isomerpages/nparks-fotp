@@ -13,13 +13,13 @@ sections:
         title: Find Out More
         options:
           - title: Friends of the Parks
-            url: /fotp-intro
+            url: /fobamkp
           - title: Our Friends
             url: /fotp-groups
           - title: How We Engage
             url: /engagement
-          - title: Our FotP Project
-            url: /our-fotp-projects
+          - title: Our FotP Projects
+            url: /our-fotp-projects/destination-parks
           - title: Be Our Friend
             url: /be-our-friend
   - infopic:
