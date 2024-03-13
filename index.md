@@ -15,7 +15,7 @@ sections:
           - title: About Friends of the Parks
             url: /about-fotp
           - title: Our Friends
-            url: /about-fotp
+            url: /fotp-groups
           - title: How We Engage
             url: /engagement
           - title: Our FotP Projects
