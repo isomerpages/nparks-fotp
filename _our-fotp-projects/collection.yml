@@ -2,7 +2,6 @@ collections:
   our-fotp-projects:
     output: true
     order:
-      - Ongoing Projects/Tampines Boulevard Park.md
       - Ongoing Projects/Destination Parks.md
       - Ongoing Projects/.keep
       - Completed Projects/Raffles Place Park.md
