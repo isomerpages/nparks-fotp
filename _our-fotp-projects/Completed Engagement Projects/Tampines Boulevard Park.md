@@ -2,7 +2,7 @@
 title: Tampines Boulevard Park
 permalink: /our-fotp-projects/tampines-boulevard-park/
 description: ""
-third_nav_title: Completed Projects
+third_nav_title: Completed Engagement Projects
 ---
 ![Alt text for image on Isomer site](/images/TBP%20hero.png)
 *Artist's impression of Tampines Boulevard Park*

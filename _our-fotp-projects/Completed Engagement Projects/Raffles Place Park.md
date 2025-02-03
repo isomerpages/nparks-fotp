@@ -2,7 +2,7 @@
 title: Raffles Place Park
 permalink: /our-fotp-projects/raffles-place-park/
 description: ""
-third_nav_title: Completed Projects
+third_nav_title: Completed Engagement Projects
 ---
 ![Alt text for image on Isomer site](/images/RPP.jpg)
 

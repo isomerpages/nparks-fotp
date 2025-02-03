@@ -2,7 +2,7 @@
 title: Villa Verde Park
 permalink: /our-fotp-projects/villa-verde-park/
 description: ""
-third_nav_title: Completed Projects
+third_nav_title: Completed Engagement Projects
 ---
 ![Alt text for image on Isomer site](/images/VVP%20hero.jpg)
 *Artist's impression of Villa Verde Park*

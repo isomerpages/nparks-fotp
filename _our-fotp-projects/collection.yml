@@ -2,14 +2,14 @@ collections:
   our-fotp-projects:
     output: true
     order:
-      - Ongoing Projects/Destination Parks.md
-      - Ongoing Projects/.keep
-      - Completed Projects/Raffles Place Park.md
-      - Completed Projects/Clementi Woods Park.md
-      - Completed Projects/Bukit Timah Rochor Green Corridor.md
-      - Completed Projects/Punggol Heritage Trail.md
-      - Completed Projects/Pasir Panjang Park.md
-      - Completed Projects/Tampines Boulevard Park.md
-      - Completed Projects/Telok Ayer Park.md
-      - Completed Projects/Villa Verde Park.md
-      - Completed Projects/.keep
+      - Ongoing Engagement Projects/Destination Parks.md
+      - Ongoing Engagement Projects/.keep
+      - Completed Engagement Projects/Tampines Boulevard Park.md
+      - Completed Engagement Projects/Raffles Place Park.md
+      - Completed Engagement Projects/Clementi Woods Park.md
+      - Completed Engagement Projects/Bukit Timah Rochor Green Corridor.md
+      - Completed Engagement Projects/Punggol Heritage Trail.md
+      - Completed Engagement Projects/Pasir Panjang Park.md
+      - Completed Engagement Projects/Telok Ayer Park.md
+      - Completed Engagement Projects/Villa Verde Park.md
+      - Completed Engagement Projects/.keep
