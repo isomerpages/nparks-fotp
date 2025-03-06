@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NParks Friends of the Parks
+title: National Parks Board
 description: Site of the NParks Friends of the Parks
 image: /images/isomer-logo.svg
 permalink: /
