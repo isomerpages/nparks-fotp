@@ -22,6 +22,8 @@ sections:
             url: /our-fotp-projects/destination-parks
           - title: Be Our Friend
             url: /be-our-friend
+          - title: Notices
+            url: /news-announcements/
   - infopic:
       title: What is Friends of the Parks?
       description: Get to know more about the Friends of the Parks initiative!
