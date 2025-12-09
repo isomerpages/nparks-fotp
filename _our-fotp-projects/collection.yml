@@ -2,7 +2,8 @@ collections:
   our-fotp-projects:
     output: true
     order:
-      - Ongoing Engagement Projects/Destination Parks.md
+      - Ongoing Engagement Projects/Southwestern Parks Masterplan & Destination
+        Parks.md
       - Ongoing Engagement Projects/.keep
       - Completed Engagement Projects/Tampines Boulevard Park.md
       - Completed Engagement Projects/Raffles Place Park.md
