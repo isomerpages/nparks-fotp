@@ -84,6 +84,6 @@ Bukit Timah Railway Station node, and the existing pedestrian overhead
 bridges across the roads. These areas will act as an access point for visitors
 on both sides of the canal.</p>
 <h4><strong>Frequently Asked Questions (FAQs)</strong></h4>
-<p>Click&nbsp;<a href="/files/btrgc public engagement faqs_180521.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click&nbsp;<a href="https://fotp.nparks.gov.sg/files/btrgc_public_engagement_faqs_180521.pdf" rel="noopener nofollow" target="_blank">here</a> to
 read the Frequently Asked Questions (FAQs) on the Bukit Timah-Rochor Green
 Corridor.</p>
