@@ -5,15 +5,19 @@ description: ""
 variant: tiptap
 third_nav_title: Ongoing Engagement Projects
 ---
-<h3><strong>Planned enhancement of 13 Southern Parks, including 3 Destination Parks</strong></h3>
-<hr>
+<h3><strong>Planned enhancement of 13 Southwestern Parks, including 3 Destination Parks</strong></h3>
 <h4>Have you heard about our enhancement plans for southern parks?</h4>
 <p>We are planning to enhance and connect 13 parks in southern Singapore
 via curated trails. HortPark, Labrador Nature Park and West Coast Park
 will be enhanced into Destination Parks.</p>
-<p>We seek your feedback on these enhancement plans to <strong>better understand your needs and aspirations for these parks</strong>.</p>
-<p>Scan the QR code below or click <a href="https://go.gov.sg/southernparkssg" rel="noopener noreferrer nofollow" target="_blank">here</a> to <strong>find out more about our enhancement plans for southern parks</strong> and
-other future engagements!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Image_1_13_Southwestern_Parks.png">
+</div>
+<p>Image 1 13 Southwestern Parks</p>
+<p>Phase 1 of Public Engagement for the Planned Enhancement of 13 Southwestern
+Parks, including 3 Destination Parks has concluded in June 2024</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/southern_parks_enhancement_plan_poster___qr.png">
