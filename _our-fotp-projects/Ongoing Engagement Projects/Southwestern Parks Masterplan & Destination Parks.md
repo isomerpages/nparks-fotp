@@ -158,10 +158,7 @@ into Destination Parks, which have since enjoyed high visitorship.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>HortPark</strong>
-</p><a class="isomer-image-wrapper" href="/HP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HP.png"></a>
-<p>Click <a href="/files/HP_DP_Final_0611.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-enlarge image.</p>
-<p></p>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/HP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HP.png"></a>
 <p>Be part of the transformation – share your ideas for HortPark <a href="https://go.gov.sg/nparkshp" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
@@ -171,10 +168,7 @@ enlarge image.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Labrador Nature Park</strong>
-</p><a class="isomer-image-wrapper" href="/LNP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/LNP.png"></a>
-<p>Click <a href="/files/LNP_DP_Final_0611.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-enlarge image.</p>
-<p></p>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/LNP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/LNP.png"></a>
 <p>Be part of the transformation – share your ideas for Labrador Nature Park
 <a href="https://go.gov.sg/nparkslnp" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
@@ -185,10 +179,7 @@ enlarge image.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>West Coast Park</strong>
-</p><a class="isomer-image-wrapper" href="/WCP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WCP.png"></a>
-<p>Click <a href="/files/WCP_DP_Final_0611.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-enlarge image.</p>
-<p></p>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/WCP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WCP.png"></a>
 <p>Be part of the transformation – share your ideas for West Coast Park
 <a href="https://go.gov.sg/nparkswcp" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
