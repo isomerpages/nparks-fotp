@@ -182,7 +182,7 @@ identities and unique feature to attract visitors from all over Singapore.
 In 2012, Admiralty Park, East Coast Park and Lakeside Garden at Jurong
 Lake Gardens (formerly known as Jurong Lake Park) were identified for development
 into Destination Parks, which have since enjoyed high visitorship.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>HortPark</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -194,6 +194,30 @@ into Destination Parks, which have since enjoyed high visitorship.</p>
 </p>
 <p></p>
 <p>Be part of the transformation – share your ideas for HortPark <a href="https://go.gov.sg/nparkshp" rel="noopener nofollow" target="_blank">here</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Labrador Nature Park</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Labrador Nature Park</strong>
+</p>
+<p></p><a class="isomer-image-wrapper" href="/LNP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/LNP.png"></a>
+<p></p>
+<p>Be part of the transformation – share your ideas for Labrador Nature Park
+<a href="https://go.gov.sg/nparkslnp" rel="noopener nofollow" target="_blank">here</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>West Coast Park</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>West Coast Park</strong>
+</p>
+<p></p><a class="isomer-image-wrapper" href="/WCP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WCP.png"></a>
+<p></p>
+<p>Be part of the transformation – share your ideas for West Coast Park
+<a href="https://go.gov.sg/nparkswcp" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
