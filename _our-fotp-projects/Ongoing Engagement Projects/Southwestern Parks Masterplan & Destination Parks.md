@@ -120,6 +120,29 @@ outdoor lifestyles.</p>
 <summary>Community Trails</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Community Trails</strong>
+</p>
+<p></p>
+<p>The Community trails will offer diverse shared spaces that foster connection
+across various park settings.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Image_8_Community_Trails.png">
+</div>
+<p><sup>Image 8 Community Trails</sup>
+</p>
+<p>&nbsp;</p>
+<p><strong>Creating Gateways to Neighbourhoods</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Image_9_Creating_Gateways_to_Neighbourhoods.png">
+</div>
+<p><sup>Image 9 Creating Gateways to Neighbourhoods</sup>
+</p>
+<p>&nbsp;</p>
+<p>The Community trails are aimed at enhancing connectivity and accessibility,
+encouraging social interaction and stewardship, and revitalising neighbourhoods.</p>
 </div>
 </details>
 <details class="isomer-details">
