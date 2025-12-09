@@ -10,19 +10,129 @@ third_nav_title: Ongoing Engagement Projects
 <p>We are planning to enhance and connect 13 parks in southern Singapore
 via curated trails. HortPark, Labrador Nature Park and West Coast Park
 will be enhanced into Destination Parks.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Image_1_13_Southwestern_Parks.png">
 </div>
-<p>Image 1 13 Southwestern Parks</p>
+<p><sup>Image 1 13 Southwestern Parks</sup>
+</p>
 <p>Phase 1 of Public Engagement for the Planned Enhancement of 13 Southwestern
-Parks, including 3 Destination Parks has concluded in June 2024</p>
+Parks, including 3 Destination Parks has concluded in June 2024.</p>
+<hr>
+<p>Phase 2 of Public Engagement commences November 2025 – January 2026</p>
+<h3><strong>Enhancing Our Southwestern Parks</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Connecting the Southern Ridges</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Connecting the Southern Ridges</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/southern_parks_enhancement_plan_poster___qr.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Image_2_Connecting_the_Southern_Ridges.png">
 </div>
-<hr>
+<p><sup>Image 2 Connecting the Southern Ridges</sup>
+</p>
+<p></p>
+<p>NParks plans to introduce 4 themed trails spanning across the 13 southwestern
+parks, increasing connectivity across the Southern Ridges. This includes
+the Nature Discovery trail, Nature Play trail, Community trail, and Heritage
+trail. The trails are intended to bring new and unique themes and experiences
+for visitors to the parks.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Wayfinding Strategies</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Wayfinding Strategies</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Image_3_Wayfinding_Strategies.jpg">
+</div>
+<p><sup>Image 3 Wayfinding Strategies</sup>
+</p>
+<p>&nbsp;</p>
+<p>Trail indicators and road markings will guide visitors along the trails,
+ensuring clear navigation. Consistent signage across the 13 southwestern
+parks will also strengthen the trails' identity and help visitors easily
+recognise each trail type.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Nature Discovery Trails</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Nature Discovery Trails</strong>
+</p>
+<p>The Nature Discovery trails will highlight existing and enhanced habitats
+across Singapore’s southwestern parks.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Image_4_Nature_Discovery_Trails.png">
+</div>
+<p><sup>Image 4 Nature Discovery Trails</sup>
+</p>
+<p><strong>Discover nature’s diversity in Southern Ridges and coastlines</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__Image_5_Discover_Nature_s_Diversity.png">
+</div>
+<p><sup>Image 5 Discover Nature’s Diversity</sup>
+</p>
+<p></p>
+<p>Nature discovery is about showcasing ecological richness, enhancing green
+connectivity through green spines and corridors, and encouraging exploration
+and learning.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Nature Play Trails</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Nature Play Trails</strong>
+</p>
+<p></p>
+<p>The Nature Play trails will host an array of play elements for visitors,
+especially children, to interact with.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Image_6_Nature_Play_Trails.png">
+</div>
+<p><sup>Image 6 Nature Play Trails</sup>
+</p>
+<p>&nbsp;</p>
+<p><strong>A Playful Excursion Across 13 Parks</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Image_7_Playful_Excursion.png">
+</div>
+<p><sup>Image 7 Playful Excursion</sup>
+</p>
+<p>&nbsp;</p>
+<p>The Nature Play trails across the 13 parks are aimed at encouraging active
+outdoor lifestyles.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Community Trails</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Heritage Trails</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dp%20overview.png">
 </div>
