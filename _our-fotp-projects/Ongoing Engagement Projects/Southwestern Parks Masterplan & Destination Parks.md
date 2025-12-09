@@ -149,6 +149,29 @@ encouraging social interaction and stewardship, and revitalising neighbourhoods.
 <summary>Heritage Trails</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Heritage Trails</strong>
+</p>
+<p></p>
+<p>The Heritage trails will highlight the historical and cultural landmarks
+across the southwestern parks.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10__Image_10_Heritage_Trails.png">
+</div>
+<p><sup>Image 10 Heritage Trails</sup>
+</p>
+<p>&nbsp;</p>
+<p><strong>Bringing History to Life, Reconnecting Through Time</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11__Image_11_Bringing_History_to_Life.png">
+</div>
+<p><sup>Image 11 Bringing History to Life</sup>
+</p>
+<p></p>
+<p>The Heritage trails are intended to preserve and showcase cultural heritage,
+create cohesive storytelling, and engaging forms of exploration and learning.</p>
 </div>
 </details>
 </div>
