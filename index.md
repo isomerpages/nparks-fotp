@@ -19,7 +19,7 @@ sections:
           - title: How We Engage
             url: /engagement
           - title: Our FotP Projects
-            url: /our-fotp-projects/destination-parks
+            url: /our-fotp-projects/swp-masterplan-destination-parks/
           - title: Be Our Friend
             url: /be-our-friend
   - infopic:
