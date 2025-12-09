@@ -160,7 +160,8 @@ into Destination Parks, which have since enjoyed high visitorship.</p>
 <p><strong>HortPark</strong>
 </p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/HP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HP.png"></a>
 <p></p>
-<p>Click here to enlarge image.</p>
+<p>Click <a href="/files/HP_DP_Final_0611.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+enlarge image.</p>
 <p></p>
 <p>Be part of the transformation – share your ideas for HortPark <a href="https://go.gov.sg/nparkshp" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
