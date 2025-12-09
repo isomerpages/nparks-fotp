@@ -182,20 +182,20 @@ identities and unique feature to attract visitors from all over Singapore.
 In 2012, Admiralty Park, East Coast Park and Lakeside Garden at Jurong
 Lake Gardens (formerly known as Jurong Lake Park) were identified for development
 into Destination Parks, which have since enjoyed high visitorship.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>HortPark</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<p><strong>HortPark</strong>
+</p>
+<p></p><a class="isomer-image-wrapper" href="/HP_DP_Final_0611.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HP.png"></a>
+<p><sup>PDF 1 HortPark DP</sup>
+</p>
+<p></p>
+<p>Be part of the transformation – share your ideas for HortPark <a href="https://go.gov.sg/nparkshp" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</details>
 </div>
 <hr>
 <p>NParks will be carrying out public consultation to seek ideas and feedback
