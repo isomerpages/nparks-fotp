@@ -20,8 +20,6 @@ sections:
             url: /engagement
           - title: Our FotP Projects
             url: /our-fotp-projects/swp-masterplan-destination-parks/
-          - title: Be Our Friend
-            url: /be-our-friend
   - infopic:
       title: What is Friends of the Parks?
       description: Get to know more about the Friends of the Parks initiative!
